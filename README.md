@@ -23,7 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-@vue/cli 升级到5 解决运行项目报以下错误
+## @vue/cli 升级到5 解决运行项目报以下错误
 ```
 You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file.
 ```
